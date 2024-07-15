@@ -1,0 +1,17 @@
+{
+  "browserContextOptions": {
+    "acceptDownloads": true,
+    "baseURL": "https://www.w3schools.com",
+    "bypassCSP": false,
+    "colorScheme": "dark",
+    "isMobile": false,
+    "javaScriptEnabled": true,
+    "locale": "en-GB",
+    "offline": false,
+    "recordVideoDir": "Videos"
+  },
+  "browser": {
+    "name": "chromium",
+    "headed": "0"
+  }
+}
